@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+
+# YOLO
+runs/
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dataset (optional)
+dataset/images/
+dataset/labels/

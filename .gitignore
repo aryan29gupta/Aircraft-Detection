@@ -28,3 +28,10 @@ runs/
 # Dataset (optional)
 dataset/images/
 dataset/labels/
+
+# Submission archives
+*.tar
+*.tar.gz
+
+# Temporary submission folder
+DRDO_Submission/
